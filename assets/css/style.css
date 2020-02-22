@@ -1,0 +1,39 @@
+#header {
+    background-color: purple;
+    width: 21%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#instructions {
+    background-color: purple;
+    width: 50%;
+    height: auto;
+    padding: 10px;
+    margin-bottom: 10px;
+   
+}
+
+#points-needed {
+    background-color: purple;
+    width: 21%;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+
+#wins-loss {
+    background-color: purple;
+    width: 21%;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+
+#score {
+    background-color: purple;
+    width: 21%;
+    padding: 10px;
+    margin-bottom: 1px;
+    padding-bottom: 1%;
+}
