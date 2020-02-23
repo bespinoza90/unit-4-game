@@ -1,3 +1,8 @@
+body {
+    background-color: black;
+}
+
+
 #header {
     background-color: purple;
     width: 21%;
@@ -16,17 +21,26 @@
 
 #points-needed {
     background-color: purple;
-    width: 21%;
-    padding: 10px;
-    margin-bottom: 10px;
+    width: 200px;
+    padding: 28px;
+    margin-bottom: 20px;
+    float: left;
 
 }
 
 #wins-loss {
     background-color: purple;
-    width: 21%;
+    width: 200px;
+    display: inline-block;
     padding: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    
+    
+    
+    
+    
+    
 
 }
 
