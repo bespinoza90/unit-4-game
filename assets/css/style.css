@@ -16,7 +16,7 @@ body {
     height: auto;
     padding: 10px;
     margin-bottom: 10px;
-   
+    
 }
 
 #points-needed {
@@ -51,3 +51,11 @@ body {
     margin-bottom: 1px;
     padding-bottom: 1%;
 }
+
+#crystal-wrapper {
+    height: 10px;
+    width: 50%;
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px;
+    margin: 100 auto;
+    margin-top: 10px;
